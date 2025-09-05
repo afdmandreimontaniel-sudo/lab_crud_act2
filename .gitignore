@@ -1,2 +1,15 @@
 node_modules/
 .env
+
+
+# # 1. Add all changes
+# git add .
+
+# # 2. Commit changes with a message
+# git commit -m "your message here"
+
+# # 3. Pull latest changes from GitHub (to avoid conflicts)
+# git pull origin main --rebase
+
+# # 4. Push your changes to GitHub
+# git push origin main
